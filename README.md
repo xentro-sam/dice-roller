@@ -1,3 +1,8 @@
+# Simple Dice Roller
+
+A simple dice roller created with the help of React.\
+The project is deployed [here](https://xentro-sam.github.io/dice-roller).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
